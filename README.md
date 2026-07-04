@@ -6,7 +6,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=flat-square&logo=css3)
 ![Cloud](https://img.shields.io/badge/Cloud-Aiven-purple?style=flat-square)
 
-🔗 **[Ver Prototipo del Dashboard en Vivo](https://frankezu.github.io/hospital-rdbms-sql/)**
+🔗 **[Ver prototipo dashboard](https://frankezu.github.io/hospital-rdbms-sql/)**
 
 ## Descripción del Proyecto
 Este proyecto es un sistema inteligente de gestión clínica orientado a optimizar entornos hospitalarios de alta presión. Su núcleo es una base de datos relacional altamente normalizada que garantiza la consistencia transaccional en la asignación de turnos médicos, el control de inventario y la trazabilidad de insumos críticos.
@@ -23,9 +23,12 @@ Este proyecto es un sistema inteligente de gestión clínica orientado a optimiz
 
 El diseño lógico y físico fue documentado minuciosamente para garantizar escalabilidad:
 
-- **Modelo Entidad-Relación (MER):** [Ver Diagrama](docs/MER.png)
-- **Modelo Relacional (MR):** [Ver Diagrama](docs/MR.png)
-- 📊 **[Presentación Técnica Interactiva (Canva)](https://canva.link/da6jlq3nwk3cmo5)** | 📄 *[Descargar PDF](docs/Presentacion_proyecto.pdf)*
+- **Modelo Entidad-Relación (MER):**
+  ![Diagrama Entidad-Relación](docs/MER.png)
+- **Modelo Relacional (MR):**
+  ![Diagrama Relacional](docs/MR.png)
+
+🔗 **[Ir a presentación en Canva](https://canva.link/da6jlq3nwk3cmo5)** | **[Descargar en PDF](docs/Presentacion_proyecto.pdf)**
 
 ---
 
